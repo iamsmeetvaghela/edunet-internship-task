@@ -1,0 +1,1 @@
+FloraNet -: Automated Plant Pathology Identification via Image Processing and Machine Learning
