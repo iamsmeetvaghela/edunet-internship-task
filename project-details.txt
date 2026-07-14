@@ -1,1 +1,3 @@
 FloraNet -: Automated Plant Pathology Identification via Image Processing and Machine Learning
+
+Team Details-: Smeet Vaghela, Prit Rakholiya, Vipul Prajapati
